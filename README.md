@@ -7,7 +7,7 @@ A full-stack email campaign management and scheduling application that simplifie
 
 💻 **GitHub Repository:** https://github.com/RumaniSadhukhan170204/ReachInbox
 
-> Note: The frontend is hosted on GitHub Pages. Backend-dependent features require a separately hosted and configured backend and supporting services.
+
 
 ## Collaborators
 The following users have been invited to collaborate on this GitHub repository:
