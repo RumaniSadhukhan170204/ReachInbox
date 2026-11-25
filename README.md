@@ -148,7 +148,6 @@ Configure the required environment variables for:
 - SMTP email service
 - JWT authentication
 
-Never upload actual `.env` files, passwords, API secrets, or access tokens to GitHub.
 
 ## Deployment
 
